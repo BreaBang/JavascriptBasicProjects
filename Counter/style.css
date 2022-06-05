@@ -1,0 +1,43 @@
+
+=============== 
+Counter
+===============
+#main {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  }
+#value {
+  font-size: 5rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+.btn {
+  display: inline-block;
+  font-size: 0.875rem;
+  border:  1px solid rgb(100, 90, 90);
+  color: rgb(100, 90, 90);
+  background-color: pink;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius);
+  margin: 0.5rem;
+  width: 6rem;
+  height: 2rem;
+}
+.btn:hover {
+  color: white;
+  background: transparent white;
+}
+div {
+margin: 10px 10px 10px 10px;
+text-align: center;
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
