@@ -1,3 +1,4 @@
+![alt tag]()
 # Basic JavaScript Counter 
 I created this basic counter via the FreeCodeAcademy and John Smilga tutorial found here: https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-an-image-slider
 
