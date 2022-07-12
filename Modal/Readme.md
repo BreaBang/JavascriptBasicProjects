@@ -1,4 +1,4 @@
-![gif showing my dancing pink rose and counter](https://github.com/BreaBang/JavascriptBasicProjects/blob/main/Counter/counter.gif.gif)
+![gif showing my modal dog joke.](https://github.com/BreaBang/JavascriptBasicProjects/Modal/modal.gif)
 
 # Basic JavaScript Modal 
 I created this modal via the FreeCodeAcademy and John Smilga tutorial found here: https://www.freecodecamp.org/news/javascript-projects-for-beginners/
